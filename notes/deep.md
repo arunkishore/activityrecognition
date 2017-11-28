@@ -321,4 +321,6 @@ Here we provide a list of Must-read papers about deep learning for activity reco
 
 	Proceedings of the 2016 ACM International Symposium on Wearable Computers. ACM, 2016: 92-99.
 
-	
+54. **Human Activity Recognition Using Wearable Sensors by Deep Convolutional Neural Networks**
+	Wenchao Jiang, 	Zhaozheng Yin
+	https://ai2-s2-pdfs.s3.amazonaws.com/2482/4de354bd3d41097f8e64faccbd42737982de.pdf
